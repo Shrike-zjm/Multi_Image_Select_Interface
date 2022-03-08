@@ -1,4 +1,4 @@
-# Multi_Image_Upload_Interface
+# Multi_Image_Select_Interface
 
 ## A simple interface for selecting multiple pictures, you can get the path of these pictures
 
